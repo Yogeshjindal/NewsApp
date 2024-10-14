@@ -10,4 +10,4 @@ NewsApp also features Room Database integration, allowing offline access to your
 
 Designed with a user-friendly interface, NewsApp offers personalized content tailored to your interests, making it easier to stay informed about what matters most to you. Download NewsApp today for a cutting-edge, efficient way to keep up with the world’s news.
 
-See the App functioning video by downloading the NewsAppVideo.mp4 present along with the code.
+**See the App functioning video by downloading the NewsAppVideo.mp4 present along with the code.**
